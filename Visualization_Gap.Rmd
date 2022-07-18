@@ -1,6 +1,6 @@
 ---
 title: "Data Visualization -Gapminder dataset"
-author: "Eric Anje"
+author: "Eric Anjeo"
 date: '2022-07-17'
 output: github_document
 ---

@@ -1,6 +1,6 @@
 Data Visualization -Gapminder dataset
 ================
-Eric Anje
+Eric Anjeo
 2022-07-17
 
 ``` r
